@@ -9,6 +9,7 @@ public class GsApplication {
     public static void main(String[] args) {
         SpringApplication.run(GsApplication.class, args);
         System.out.println("hello git");
+        System.out.println("conflict git");
     }
 
 }
