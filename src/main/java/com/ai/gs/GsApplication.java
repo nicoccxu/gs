@@ -11,6 +11,7 @@ public class GsApplication {
         System.out.println("hello git");
         System.out.println("two git");
         System.out.println("conflict git");
+        System.out.println("push test");
     }
 
 }
